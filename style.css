@@ -1,0 +1,61 @@
+.marque {
+    background-color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fa {
+    color: black;
+    font-size: 17px;
+}
+
+.movie-head {
+    font-size: 20px !important;
+    padding: 6px 22px !important;
+    border-radius: 10px !important;
+    margin-bottom: 15px !important;
+    width: 100% !important;
+    display: inline-block !important;
+}
+
+.movie-head i {
+    float: right !important;
+}
+
+.movie_text span {
+    color: orange !important;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+.book {
+    cursor: pointer;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
